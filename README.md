@@ -20,7 +20,7 @@ To increase the script's user-friendliness and versatility, a Command Line Inter
 
 ### 3. Pandas for Data Manipulation
 
-The Pandas library was utilized for handling opcode data, allowing for more complex manipulation and validation tasks. By converting opcode data into a Pandas DataFrame, sophisticated data analysis and manipulation capabilities were enabled. This approach facilitated efficient handling of large datasets and streamlined the validation process (see `eval_4.ipynb`).
+The Pandas library was utilized for handling opcode data, allowing for more complex manipulation and validation tasks. By converting opcode data into a Pandas DataFrame, sophisticated data analysis and manipulation capabilities were enabled. This approach facilitated efficient handling of large datasets and streamlined the validation process (see `eval_4.py`).
 
 ## Summary
 
